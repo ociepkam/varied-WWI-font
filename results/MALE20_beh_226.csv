@@ -1,0 +1,4 @@
+EXP,TRIAL_TYPE,TEXT,COLOR,WAIT,RESPTIME,RT,TRUE_KEY,ANSWER,CORR
+training,trial_neu_neu_neu,"['HHHHHHHH', 'HHHHHHHH', 'HHHHHHHH']",#5e75d9,1,4,0.8406191999965813,x,z,False
+training,trial_neu_neu_neu,"['HHHHHHHH', 'HHHHHHHH', 'HHHHHHHH']",green,1,4,0.41560899998876266,m,x,False
+training,trial_neu_neu_neu,"['HHHHHHHH', 'HHHHHHHH', 'HHHHHHHH']",red,1,4,1.2000138000003062,z,z,True

@@ -1,0 +1,32 @@
+﻿Teraz nastąpi główne zadanie, z krótką przerwą na odpoczynek.
+
+
+Program będzie prezentował różne słowa, oznaczające kolory lub nie.
+Staraj się nie czytać tych słów i zupełnie ignoruj ich treść.
+
+Rozpoznawaj wyłącznie KOLOR słów, dokładnie tak jak w treningu.
+
+
+
+Naciskaj:
+
+<--insert-->
+
+
+
+Pamiętaj, NIE MOZESZ czytać słów i reagować zgodnie z ich znaczeniem.
+
+Rozpoznawaj wyłącznie KOLORY!
+
+Np. jeśli trzy słowa "NIEBIESKI" będą wyświetlone w kolorze czerwonym, 
+
+to musisz nacisnąć klawisz odpowiadający za kolor czerwony (nie niebieski!).
+
+
+Po prostu ignoruj treść słów.
+ 
+W tej części testu nie będzie już informacji o pomyłce.
+
+
+
+Naciśnij SPACJĘ, aby rozpocząć.

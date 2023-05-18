@@ -1,0 +1,21 @@
+﻿Teraz zaczyna się druga cześć treningu, która jest trudniejsza niż poprzednia.
+
+Tym razem będą się wyświetlać trzy słowa oznaczające kolory (ZIELONY, CZERWONY itp.).
+Słowa będą prezentowane jedno pod drugim.
+
+Tak jak poprzednio, rozpoznawaj wyłącznie KOLOR SŁÓW, a zupełnie ignoruj ich znaczenie.
+
+Naciskaj:
+<--insert-->
+
+Nie czytaj słów, tylko identyfikuj ich KOLOR (słowa mogą w tym przeszkadzać).
+Rozpoznawaj wyłącznie KOLORY!
+
+Jeśli słowo "NIEBIESKI" będzie wyświetlone w kolorze czerwonym,
+to musisz nacisnąć klawisz odpowiadający za kolor czerwony (nie niebieski!).
+Staraj się naciskać poprawny klawisz przypisany prezentowanemu kolorowi.
+Po każdej próbie pojawi się informacja o poprawności wykonania zadania.
+
+Staraj się reagować szybko i poprawnie!
+
+Teraz będzie można potrenować wykonanie testu. Aby rozpocząć, naciśnij SPACJĘ.

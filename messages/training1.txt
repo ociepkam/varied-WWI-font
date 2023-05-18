@@ -1,0 +1,17 @@
+﻿Na ekranie będą się wyświetlać trzy słowa, jedno pod drugim.
+Twoim zadaniem będzie rozpoznawanie KOLORU wyświetlanych słów.
+Ignoruj znaczenie słów.
+Po prostu skup się na rozpoznawaniu, jaki kolor maja słowa.
+Słowa mogą być w kolorze zielonym, niebieskim, czerwonym albo brązowym.
+
+Naciskaj:
+<--insert-->
+
+Połóż palce lewej ręki na klawiszach Z i X, a prawej - na N i M.
+Staraj się naciskać poprawny klawisz, odpowiadający bieżącemu kolorowi.
+Po każdej próbie pojawi się informacja o poprawności wykonania zadania.
+
+Podpowiedź u dołu ekranu będzie przypominać Ci klawisze przypisane kolorom.
+Jeśli rozumiesz polecenie, przejdź do wykonywania zadania.
+
+Naciśnij SPACJE, aby rozpocząć.
