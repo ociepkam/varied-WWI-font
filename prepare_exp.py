@@ -70,7 +70,7 @@ def prepare_trial(trial_type, win, text_height, words_dist):
 
     stim1 = visual.TextStim(win, color=color, text=words[0], height=text_height, pos=(0, words_dist))
     stim2 = visual.TextStim(win, color=color, text=words[1].lower(), height=text_height, pos=(0, 0))
-    stim3 = visual.TextStim(win, color=color, text=words[2].lower(), height=text_height, pos=(0, -words_dist), italic=True)
+    stim3 = visual.TextStim(win, color=color, text=words[2].lower(), height=text_height, pos=(0, -words_dist), italic=True, bold=True)
     # print({'trial_type': trial_type, 'text': words, 'color': color, 'stim': [stim1, stim2, stim3]})
     return {'trial_type': trial_type, 'text': words, 'color': color, 'stim': [stim1, stim2, stim3]}
 
