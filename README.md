@@ -9,3 +9,5 @@ Stroop z trzema słowami, w którym są tylko słowa-kolory (nie ma UNR) i czter
 Wszystkie triale losowo przemieszane. Jedyne ograniczenie, to że kolor czcionki nie może się powtarzać w bezpośrednio następujących po sobie trialach
 
 Różnica pomiędzy varied-WWI-font a varied-WWI jest taka, że w tej procedurze pierwszy wyraz jest wielkimi literami, drugi małymi, trzyci małymi i kursywą.
+
+Stroop 4?
